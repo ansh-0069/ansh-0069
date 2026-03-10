@@ -64,14 +64,15 @@ Data dashboard for visualizing financial KPIs.
 
 ---
 
-# 📈 Most Used Languages
+## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-0069&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-0069&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 # 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ansh-0069&theme=tokyonight&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=ansh-0069&theme=tokyonight&margin-w=15&margin-h=15)
 
 ---
 
