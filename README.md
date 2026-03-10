@@ -86,7 +86,7 @@ Data dashboard for visualizing financial KPIs.
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman%20Kumar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumar%20Anshuman-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ansh--0069-black?style=for-the-badge\&logo=github)](https://github.com/ansh-0069)
 
