@@ -4,29 +4,29 @@
 
 ### 🚀 AI • Data • Product
 
-![](https://komarev.com/ghpvc/?username=ansh-0069\&color=blue)
+![](https://komarev.com/ghpvc/?username=ansh-0069\&color=blue\&style=flat)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=28\&center=true\&vCenter=true\&width=700\&height=50\&lines=AI+%26+Data+Enthusiast;Aspiring+Product+Manager;Hackathon+Finalist;Building+Cool+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=30\&center=true\&vCenter=true\&width=750\&lines=AI+%26+Data+Enthusiast;Aspiring+Product+Manager;Hackathon+Finalist;Building+Cool+Things+With+Data)
 
 </div>
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 
 * 🧠 Interested in **AI, Data Science, and Product Management**
 * 🏆 **Top 2 National Finalist — NEST 2.0 Hackathon**
 * 📊 Passionate about **data-driven decision making**
-* 🎓 Engineering Student
+
 
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### Programming
 
-![Python](https://skillicons.dev/icons?i=python)
+![My Skills](https://skillicons.dev/icons?i=python)
 
 ### Tools
 
@@ -38,41 +38,60 @@
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh-0069\&show_icons=true\&theme=tokyonight)
+🔹 **Credit Risk Prediction Model**
+Machine learning model to identify high-risk credit card users.
 
----
+🔹 **Fraud Detection System**
+Isolation Forest based anomaly detection for financial transactions.
 
-## 🔥 GitHub Streak
-
-![GitHub streak](https://streak-stats.demolab.com/?user=ansh-0069\&theme=tokyonight)
-
----
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-0069\&layout=compact\&theme=tokyonight)
+🔹 **Financial Analytics Dashboard**
+Data dashboard for visualizing financial KPIs.
 
 ---
 
-## 🏆 Achievements
+# 📊 GitHub Stats
+
+![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh-0069\&show_icons=true\&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ansh-0069\&theme=tokyonight)
+
+---
+
+# 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-0069\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🏆 Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ansh-0069\&theme=tokyonight\&row=1)
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ansh-0069\&theme=tokyo-night)
 
 ---
 
-## 🤝 Connect With Me
+# 🐍 Contribution Snake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
+![snake gif](https://github.com/ansh-0069/ansh-0069/blob/output/github-contribution-grid-snake.svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/ansh-0069)
+---
+
+# 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman%20Kumar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anshuman0452/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ansh--0069-black?style=for-the-badge\&logo=github)](https://github.com/ansh-0069)
 
 ---
 
@@ -81,3 +100,4 @@
 ⭐️ From [Anshuman Kumar](https://github.com/ansh-0069)
 
 </div>
+
