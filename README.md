@@ -1,4 +1,5 @@
 <div align="center">
+![banner](banner.png)
 
 # Hi 👋 I'm Anshuman Kumar
 
