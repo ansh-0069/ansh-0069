@@ -94,7 +94,7 @@ Data dashboard for visualizing financial KPIs.
 
 <div align="center">
 
-⭐️ From [Anshuman Kumar](https://github.com/ansh-0069)
+⭐️ From [Kumar Anshuman](https://github.com/ansh-0069)
 
 </div>
 
