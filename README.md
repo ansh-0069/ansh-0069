@@ -72,7 +72,7 @@ Data dashboard for visualizing financial KPIs.
 
 # 🏆 Achievements
 
-![trophy](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=ansh-0069&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh-0069&show_icons=true&theme=tokyonight)
 
 ---
 
