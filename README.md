@@ -53,7 +53,7 @@ Data dashboard for visualizing financial KPIs.
 
 # 📊 GitHub Stats
 
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh-0069\&show_icons=true\&theme=tokyonight)
+![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh-0069&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -65,13 +65,12 @@ Data dashboard for visualizing financial KPIs.
 
 # 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-0069\&layout=compact\&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-0069&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 # 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ansh-0069\&theme=tokyonight\&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ansh-0069&theme=tokyonight&margin-w=15)
 
 ---
 
@@ -83,7 +82,7 @@ Data dashboard for visualizing financial KPIs.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/ansh-0069/ansh-0069/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ansh-0069/ansh-0069/output/github-contribution-grid-snake.svg)
 
 ---
 
