@@ -82,7 +82,7 @@ Data dashboard for visualizing financial KPIs.
 
 # 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/ansh-0069/ansh-0069/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
