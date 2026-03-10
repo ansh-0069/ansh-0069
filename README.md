@@ -1,5 +1,5 @@
 <div align="center">
-![banner](banner.png)
+<img src="banner.png" alt="banner" width="100%" />
 
 # Hi 👋 I'm Anshuman Kumar
 
