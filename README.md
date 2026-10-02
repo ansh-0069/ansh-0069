@@ -63,17 +63,9 @@ Data dashboard for visualizing financial KPIs.
 
 ---
 
-## 📊 GitHub Overview
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anxhumandev&show_icons=true&theme=tokyonight)
+# 📊 GitHub Overview
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anxhumandev&layout=compact&theme=tokyonight)
-
----
-
-# 📊 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anxhumandev&theme=tokyo-night)
 
 ---
 
